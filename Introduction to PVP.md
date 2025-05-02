@@ -16,23 +16,25 @@ Typically, you will want to purchase the following items with Bloody Tokens. The
 
 As the season progresses, you will easily acquire enough Bloody Tokens to purchase more items. You will want to purchase all possible items with Bloody Tokens as they are the cheapest item to purchase. They can eventually be replaced with Conquest or crafted gear.
 
-### Crafting Gear
+### Crafted Gear
 
 Crafting gear isn't only a great way to get started with PVP gear, it is also essential because it is the only way to get embellishments. You will get 9 crafting tokens from your first PVP win. Necks and Rings costs 3 tokens, while other items cost 4 tokens. Very quickly, you should be able to craft 3 pieces of gear with your first tokens. You can buy more tokens from one of the pvp vendors.
 
-Typically, you will want to craft the following items with Embellishments. These are typically the best items to craft with Embellishments and will give you a good boost to your stats.
+Typically, you will want to craft the following items with Embellishments. These are the best items to craft with Embellishments and will give you a good boost to your stats.
 
 - **Neck**: 3 tokens
 - **Ring**: 3 tokens
 - 1 of the following (depending on your class and spec and what stats you need):
   - **Boots**: 4 tokens
   - **Belt**: 4 tokens
-- 1 of the following (or more if your class doesn't use the bonus from the tier set)
-  - **Chest**
-  - **Shoulders**
-  - **Helm**
-  - **Pants**
-  - **Gloves**
+ 
+Some classes doesn't use the tier set, or only a subset. If so, you can look into crafting the other gear slots.
+
+- **Helm**
+- **Shoulder**
+- **Chest**
+- **Gloves**
+- **Legs**
 
 #### Embellishments
 
@@ -45,6 +47,7 @@ Fill in the rest of the gear slots with Honor Gear. You can purchase Honor Gear 
 Typically, you will want to purchase the following items with Honor Gear:
 
 - **Trinkets**
+- Any empty gear slot at this point.
 
 ### Conquest Gear
 
